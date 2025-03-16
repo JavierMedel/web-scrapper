@@ -1,0 +1,32 @@
+# Ignore node_modules (for JavaScript/TypeScript projects)
+node_modules/
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE/editor-specific folders
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store/
+Thumbs.db/
+
+# Ignore logs and temporary files
+logs/
+tmp/
+
+# Ignore environment variables and secrets
+.env
+.env.local
+
+# Ignore data folders
+ca-en/
+es-es/
+gb-en/
+us-en/
